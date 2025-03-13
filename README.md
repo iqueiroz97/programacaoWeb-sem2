@@ -20,7 +20,9 @@
 - Caso clique na função de agenda deve ser possível agendar um horário para retirada de compra realizada ou para agendar um serviço (Ex: Instalação de Insulfilm)
 - Deverá ser apresentada uma tela solicitando o cadastro do usuário de acordo com as necessidades que foram citadas anteriormente
 - Permitir que outra pessoa retire o produto (Com confirmação por código de segurança)
-- Login - Deverá possuir forma de cadastro por Google (Ex:E-mail, Telefone) para agendamento de serviços, instalações de acessórios, retiradas de produto  
+- Login - Deverá possuir forma de cadastro por Google (Ex:E-mail, Telefone) para agendamento de serviços, instalações de acessórios, retiradas de produto
+- Ter carrossel de produtos / serviços
+- Visualização dos produtos / serviços em grade (Ex: Mercado Livre, Amazon...)
 
 ---
 
