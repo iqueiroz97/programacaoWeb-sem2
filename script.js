@@ -1,13 +1,10 @@
-var usuario = `admin`;
-var senha = `1234`;
+function entrar() {
+    var usuario = document.getElementById(`textoUsuario`).value;
+    var senha = document.getElementById(`textoSenha`).value;
 
-function login() {
-    var usuario = document.getElementById(`txtUsuario`).value;
-    var senha = document.getElementById(`txtSenha`).value;
-
-    if (txtUsuario == ) {
-        
+    if (usuario == "admin" && senha == 1234) {
+        window.location.href = "index.html";
     } else {
-        
+        alert(`Usuário ou senha inválidos`);
     }
 }

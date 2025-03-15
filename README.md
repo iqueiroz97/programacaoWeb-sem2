@@ -2,7 +2,7 @@
 
 ### DUPLA
 - Igor Queiroz
-- Lucas Serafim
+- **Lucas Serafim**
 
 ---
 
@@ -56,8 +56,9 @@
 
 ---
 
-###### REFERÊNCIAS DE MODELO DE NEGÓCIO (AGREGADOR DE LOJAS)
-1. https://www.zoom.com.br
+###### REFERÊNCIAS
+MODELO DE NEGÓCIO (AGREGADOR DE LOJAS)
+  - https://www.zoom.com.br
 
-###### REFERÊNCIAS VISUAIS
-1. https://www.mercadocar.com.br/
+VISUAL
+  - https://www.mercadocar.com.br/
